@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20110222 at Sun Oct  7 21:14:00 2012
+ By Stefan Warting
+Copyright (c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its affiliated Linotype-Hell companies. All rights reserved.
+
+The digitally encoded machine readable software for producing the Typefaces licensed to you is now the property of Heidelberger Druckmaschinen AG and its licensors, and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Heidelberger Druckmaschinen AG.
+
+Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated. All Rights Reserved.
+</metadata>
+<defs>
+<font id="HelveticaNeue-Light" horiz-adv-x="685" >
+  <font-face 
+    font-family="Helvetica Neue"
+    font-weight="300"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 4 3 0 0 0 2 0 4"
+    ascent="800"
+    descent="-200"
+    x-height="516"
+    cap-height="729"
+    bbox="31 -14 707 729"
+    underline-thickness="50"
+    underline-position="-75"
+    unicode-range="U+0044-0075"
+  />
+<missing-glyph 
+d="M72 714v-714h247q163 4 245.5 91.5t82.5 265.5t-82.5 265.5t-245.5 91.5h-247zM140 58v598h145q77 0 132.5 -16.5t91.5 -52.5t53 -93t17 -137t-17 -137t-53 -93t-91.5 -52.5t-132.5 -16.5h-145z" />
+    <glyph glyph-name=".notdef" unicode="D" 
+d="M72 714v-714h247q163 4 245.5 91.5t82.5 265.5t-82.5 265.5t-245.5 91.5h-247zM140 58v598h145q77 0 132.5 -16.5t91.5 -52.5t53 -93t17 -137t-17 -137t-53 -93t-91.5 -52.5t-132.5 -16.5h-145z" />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="704" 
+d="M71 714v-714h68v604h2l416 -604h76v714h-68v-604h-2l-416 604h-76z" />
+    <glyph glyph-name="O" unicode="O" horiz-adv-x="741" 
+d="M102 357q0 59 15.5 115t48 100.5t83.5 71.5t122 27t121.5 -27t83 -71.5t48 -100.5t15.5 -115q0 -58 -15.5 -114.5t-48 -101t-83 -71.5t-121.5 -27t-122 27t-83.5 71.5t-48 101t-15.5 114.5zM34 357q0 -74 21 -141t63 -118t105.5 -81.5t147.5 -30.5t147 30.5t105 81.5
+t63 118t21 141t-21 141t-63 118.5t-105 82t-147 30.5t-147.5 -30.5t-105.5 -82t-63 -118.5t-21 -141z" />
+    <glyph glyph-name="S" unicode="S" horiz-adv-x="630" 
+d="M104 235h-68q-3 -66 17.5 -113t58.5 -77t92 -44.5t117 -14.5t108 11.5t75.5 30t48 41.5t27 45.5t12 42.5t2.5 32q0 44 -14.5 75t-40 52.5t-59 36t-71.5 24.5l-174 43q-22 5 -41.5 13t-34.5 21t-23.5 31.5t-8.5 43.5q0 40 15 67t39.5 43.5t57 24t67.5 7.5q38 0 72.5 -10.5
+t61 -31t43 -51t18.5 -71.5h68q0 55 -21.5 96.5t-57.5 69.5t-84 42t-101 14q-75 0 -123 -21.5t-75.5 -52.5t-37.5 -66t-10 -61q0 -42 13.5 -71t35.5 -49t51.5 -32t60.5 -20l159 -39q25 -6 51 -15.5t47.5 -24.5t35 -37t13.5 -52q0 -39 -19 -66.5t-47.5 -45t-61.5 -25.5t-61 -8
+q-49 0 -92 9.5t-74.5 31.5t-49.5 59t-17 92z" />
+    <glyph glyph-name="U" unicode="U" 
+d="M65 714v-457q0 -55 15.5 -104.5t49 -86.5t86 -58.5t126.5 -21.5q75 0 127.5 21.5t86 58.5t49 86.5t15.5 104.5v457h-68v-442q0 -62 -14 -105.5t-41 -71t-66 -40t-89 -12.5q-49 0 -88 12.5t-66 40t-41 71t-14 105.5v442h-68z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="574" 
+d="M514 0v714h-63v-296h-2q-10 28 -28.5 49t-42.5 35.5t-51.5 21.5t-56.5 7q-59 0 -102.5 -22t-72.5 -59.5t-43 -87t-14 -104.5t14 -104.5t43 -87t72.5 -59t102.5 -21.5q28 0 56.5 8t53.5 22.5t44.5 35.5t29.5 46h2v-98h58zM101 258q0 40 9.5 79.5t30 70.5t52.5 50.5
+t77 19.5q50 0 84.5 -19.5t56 -50.5t31 -70.5t9.5 -79.5t-9.5 -79.5t-31 -70.5t-56 -50.5t-84.5 -19.5q-45 0 -77 19.5t-52.5 50.5t-30 70.5t-9.5 79.5z" />
+    <glyph glyph-name="n" unicode="n" horiz-adv-x="537" 
+d="M59 516v-516h63v301q1 38 12.5 70.5t32 56t50 37t67.5 13.5t63.5 -12t40.5 -33t21 -49.5t6 -61.5v-322h63v332q0 46 -9 83t-31 62.5t-58.5 39.5t-90.5 14q-55 0 -101 -28.5t-64 -75.5h-2v89h-63z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="556" 
+d="M278 478q45 0 79 -19t56.5 -50t34 -70.5t11.5 -80.5t-11.5 -80.5t-34 -70.5t-56.5 -50t-79 -19t-79 19t-56.5 50t-34 70.5t-11.5 80.5t11.5 80.5t34 70.5t56.5 50t79 19zM278 531q-59 0 -104.5 -22t-76.5 -59t-47 -86.5t-16 -105.5t16 -105.5t47 -86.5t76.5 -58.5
+t104.5 -21.5t104.5 21.5t76.5 58.5t47 86.5t16 105.5t-16 105.5t-47 86.5t-76.5 59t-104.5 22z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="481" 
+d="M369 365h63q-2 42 -17 73t-40.5 52t-59 31t-72.5 10q-34 0 -68.5 -8t-62.5 -25t-45.5 -45t-17.5 -67q0 -33 11 -55.5t30.5 -38t45.5 -26t57 -18.5l81 -18q21 -5 41.5 -12t36.5 -17.5t25.5 -26t9.5 -38.5q0 -27 -13.5 -45.5t-34.5 -30.5t-45.5 -17t-47.5 -5
+q-63 0 -105.5 32.5t-46.5 96.5h-63q8 -95 64.5 -138t147.5 -43q36 0 73 8t66.5 26.5t48.5 48t19 71.5q0 34 -13 59t-33.5 42t-47 27.5t-53.5 14.5l-84 19q-16 4 -35 10.5t-35 16.5t-26.5 24.5t-10.5 35.5q0 25 11 42t29 27.5t39.5 15t42.5 4.5q27 0 51 -6.5t42.5 -20.5
+t29.5 -35.5t12 -50.5z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="537" 
+d="M478 0v516h-63v-271q0 -39 -9 -76.5t-28 -66.5t-48 -46.5t-70 -17.5q-75 0 -105.5 36t-32.5 106v336h-63v-335q0 -46 10 -82t31.5 -61t56 -38.5t83.5 -13.5q58 0 105.5 27.5t72.5 79.5h2v-93h58z" />
+  </font>
+</defs></svg>

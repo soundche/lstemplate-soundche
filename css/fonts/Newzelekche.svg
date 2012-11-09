@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20110222 at Sun Oct  7 17:18:32 2012
+ By Stefan Warting
+Copyright (C) 1993; Type Market Ltd. Moscow, 119136, Box 20; phone:(095)1427712; Created by A.Kustov
+</metadata>
+<defs>
+<font id="New_Zelek" horiz-adv-x="687" >
+  <font-face 
+    font-family="New_Zelek"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="46 0 762 755"
+    underline-thickness="50"
+    underline-position="-75"
+    unicode-range="U+00C5-00F7"
+  />
+<missing-glyph 
+d="M57 0v459v103l197 178h508l-197 -178h-311v-103h311v-178h-311v-103h311v-178h-508z" />
+    <glyph glyph-name=".notdef" unicode="&#xc5;" 
+d="M57 0v459v103l197 178h508l-197 -178h-311v-103h311v-178h-311v-103h311v-178h-508z" />
+    <glyph glyph-name=".notdef" unicode="&#x415;" 
+d="M57 0v459v103l197 178h508l-197 -178h-311v-103h311v-178h-311v-103h311v-178h-508z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" horiz-adv-x="692" 
+d="M636 0v740h-197v-338h-93q-62 0 -82.5 20.5t-20.5 82.5v250l-197 -178v-72q0 -145 52 -209q59 -72 201 -72h140v-224h197z" />
+    <glyph glyph-name="multiply" unicode="&#x427;" horiz-adv-x="692" 
+d="M636 0v740h-197v-338h-93q-62 0 -82.5 20.5t-20.5 82.5v250l-197 -178v-72q0 -145 52 -209q59 -72 201 -72h140v-224h197z" />
+    <glyph glyph-name="aring" unicode="&#xe5;" 
+d="M57 0v459v103l197 178h508l-197 -178h-311v-103h311v-178h-311v-103h311v-178h-508z" />
+    <glyph glyph-name="aring" unicode="&#x435;" 
+d="M57 0v459v103l197 178h508l-197 -178h-311v-103h311v-178h-311v-103h311v-178h-508z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" horiz-adv-x="692" 
+d="M636 0v740h-197v-338h-93q-62 0 -82.5 20.5t-20.5 82.5v250l-197 -178v-72q0 -145 52 -209q59 -72 201 -72h140v-224h197z" />
+    <glyph glyph-name="divide" unicode="&#x447;" horiz-adv-x="692" 
+d="M636 0v740h-197v-338h-93q-62 0 -82.5 20.5t-20.5 82.5v250l-197 -178v-72q0 -145 52 -209q59 -72 201 -72h140v-224h197z" />
+  </font>
+</defs></svg>

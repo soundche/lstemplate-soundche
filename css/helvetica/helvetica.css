@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'HelveticaNeueLightSound';
+    src: url('HelveticaNeueLightSound.eot');
+    src: url('HelveticaNeueLightSound.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaNeueLightSound.woff') format('woff'),
+         url('HelveticaNeueLightSound.ttf') format('truetype'),
+         url('HelveticaNeueLightSound.svg#HelveticaNeueLightSound') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#main-link-sound {
+	font-family: HelveticaNeueLightSound;
+	font-size: 120px;
+	color:#00c5fe;
+	position: relative;
+	left: 50px;
+}

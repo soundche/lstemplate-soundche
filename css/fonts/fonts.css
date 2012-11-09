@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Newzelekche';
+    src: url('Newzelekche.eot');
+    src: url('Newzelekche.eot?#iefix') format('embedded-opentype'),
+         url('Newzelekche.woff') format('woff'),
+         url('Newzelekche.ttf') format('truetype'),
+         url('Newzelekche.svg#NewZelek') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLightSound';
+    src: url('HelveticaNeueLight.eot');
+    src: url('HelveticaNeueLight.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaNeueLight.woff') format('woff'),
+         url('HelveticaNeueLight.ttf') format('truetype'),
+         url('HelveticaNeueLight.svg#HelveticaNeueLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#main-link-sound {
+	font-family: HelveticaNeueLightSound;
+	font-size: 120px;
+	color:#00c5fe;
+	position: relative;
+	left: 50px;
+}
+
+#main-link-ch {
+	font-family: Newzelekche;
+	font-size: 170px;
+	color:#f61200;
+}
+
+#main-link-e {
+	font-family: Newzelekche;
+	font-size: 100px;
+	color:#f61200;
+	position: relative;
+	right: 10px;
+}
+
+#sound-city { 
+	left: 50px; 
+	position: relative; 
+	font-family: HelveticaNeueLightSound;
+	letter-spacing: 22px;
+	font-size: 18px;
+	color: white;
+	padding-top: 5px;
+}
