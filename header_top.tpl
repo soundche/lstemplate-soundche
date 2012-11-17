@@ -14,7 +14,7 @@
 		<div id="sound-city">звуки нашого міста</div>
 		</a>
 	</div>
-	<img src="{$oConfig->GetValue('path.root.web')}/templates/skin/synio/images/equalizer.png" id="equalizer" />
+	<img src="{cfg name='path.static.skin'}/images/equalizer.png" id="equalizer" />
 </div>
 <header id="header" role="banner">
 	{hook run='header_banner_begin'}
