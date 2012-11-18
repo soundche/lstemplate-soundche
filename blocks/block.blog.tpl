@@ -1,7 +1,7 @@
 {if $oTopic}
 	{assign var="oBlog" value=$oTopic->getBlog()}
 	{if $oBlog->getType()!='personal'}
-	<section class="block block-type-blog">
+	<section class="block">
 		<header class="block-header">
 			<h3><a href="{$oBlog->getUrlFull()}">{$oBlog->getTitle()|escape:'html'}</a></h3>
 		</header>
