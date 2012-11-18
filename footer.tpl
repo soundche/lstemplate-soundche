@@ -53,7 +53,7 @@
 				<br />
 					<ul class="nav-bottom">
 						<li><a href="{cfg name='path.root.web'}/page/about/">{$aLang.footer_menu_project_about}</a></li>
-						<li><a href="{cfg name='path.root.web'}/team">Команда</a></li>
+						<li><a href="#">Команда</a></li>
 						<li><a href="#">{$aLang.footer_menu_project_contact}</a></li>
 						<li><a href="#">{$aLang.footer_menu_project_advert}</a></li>
 						<li><a href="#">{$aLang.footer_menu_project_help}</a></li>
