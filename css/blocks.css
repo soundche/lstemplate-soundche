@@ -38,6 +38,7 @@
 .block.block-type-stream .block-content .latest-list .block-item-comments { font-size: 11px; text-decoration: none; color: #818189; white-space: nowrap; }
 .block.block-type-stream .block-content .latest-list .block-item-comments i { position: relative; top: 3px; margin-right: 2px; }
 
+.block.block-type-stream .block-content .latest-list li a.author { float:left; padding-right: 5px; }
 
 /* Block Type - Activity Settings */
 .block.block-type-activity p 		{ margin-bottom: 15px; }
