@@ -104,8 +104,8 @@
 
 
 /* Nav Main */
-.nav.nav-main 					{ height: 51px; overflow: hidden; font-family: Arial; padding-left: 50px; letter-spacing: 0.2em; }
-.nav.nav-main li 				{ margin-right: 22px; position: relative; height: 51px; line-height: 49px; margin-left: 30px;}
+.nav.nav-main 					{ height: 51px; overflow: hidden; font-family: Arial; padding-left: 10px; letter-spacing: 0.2em; }
+.nav.nav-main li 				{ margin-right: 22px; position: relative; height: 51px; line-height: 49px; margin-left: 20px;}
 .nav.nav-main li:last-child 	{ margin-right: 0; }
 .nav.nav-main li a 				{ color: #cfcfcf; text-decoration: none; }
 .nav.nav-main li a:hover 		{ color: #aaa; }
