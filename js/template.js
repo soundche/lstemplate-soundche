@@ -453,6 +453,13 @@ jQuery(document).ready(function($){
 		return false;
 	};
 
+    //Joke photo
+    $('.crewman').mouseover(function(){
+        $(this).find("img.normal-photo").fadeOut();
+    }).mouseleave(function() {
+        $(this).find("img.normal-photo").fadeIn();
+    });
+
 
 	ls.infobox.aOptDef=$.extend(true,ls.infobox.aOptDef,{
 		className: 'infobox-help',
